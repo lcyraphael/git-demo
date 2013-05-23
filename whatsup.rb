@@ -1,3 +1,3 @@
 puts "whats up?"
-puts "what is your name?"
+puts "hey you whats yo name"
 
